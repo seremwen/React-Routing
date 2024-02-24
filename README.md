@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Routing in React
+To perform routing in React using React router, as well as the various aspects of routing and how React router handles them, such as dynamic routing, programmatic navigation, no matching route,
+ We would create/use a cocktails app that retrieves her data from Hygraph via GraphQL.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
